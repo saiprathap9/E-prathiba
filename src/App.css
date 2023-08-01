@@ -1,0 +1,13 @@
+/* div{
+    display: grid;
+    grid-template-columns: 45% 55%;
+    background-color: rgb(180, 180, 193);
+    grid-gap: 10px;
+}
+nav,ul,li{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-gap: 10px;
+    margin-top: 10px;
+
+} */
